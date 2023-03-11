@@ -1,4 +1,5 @@
-# test-repository
+# this is my first repo
+
+Hello world from ziddan
 
 This line was added in my local Computer.
-This is a second example
